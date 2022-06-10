@@ -1,0 +1,47 @@
+[
+  {
+    "two_precision_no_scale": "99",
+    "two_precision_one_scale": "9.9",
+    "two_precision_two_scale": "0.99"
+  },
+  {
+    "two_precision_no_scale": "-99",
+    "two_precision_one_scale": "-9.9",
+    "two_precision_two_scale": "-0.99"
+  },
+  {
+    "two_precision_no_scale": "0",
+    "two_precision_one_scale": "0",
+    "two_precision_two_scale": "0"
+  },
+  {
+    "two_precision_no_scale": "0000099.00000",
+    "two_precision_one_scale": "000009.900000",
+    "two_precision_two_scale": "000000.9900000"
+  },
+  {
+    "two_precision_no_scale": "-0000099.00000",
+    "two_precision_one_scale": "-000009.900000",
+    "two_precision_two_scale": "-000000.9900000"
+  },
+  {
+    "two_precision_no_scale": "99.",
+    "two_precision_one_scale": "9.",
+    "two_precision_two_scale": "0."
+  },
+  {
+    "two_precision_no_scale": "-99.",
+    "two_precision_one_scale": "-9.",
+    "two_precision_two_scale": "-0."
+  },
+  {
+    "two_precision_no_scale": ".0",
+    "two_precision_one_scale": ".9",
+    "two_precision_two_scale": ".99"
+  },
+  {
+    "two_precision_no_scale": "-.0",
+    "two_precision_one_scale": "-.9",
+    "two_precision_two_scale": "-.99"
+  }
+]

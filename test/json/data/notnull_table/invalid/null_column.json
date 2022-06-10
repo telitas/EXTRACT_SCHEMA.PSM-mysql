@@ -1,0 +1,9 @@
+[
+  {
+    "character_varying_column": null,
+    "character_large_object_column": "",
+    "binary_varying_column": "",
+    "binary_large_object_column": "",
+    "not_supported_type_column": ""
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "product_id": "12345678",
+    "product_code": "abcd00000001",
+    "product_name": "EXTRACT_SCHEMA.PSM",
+    "price": "123456789012.345",
+    "on_sale": true,
+    "registered_at": "2022-12-31T12:30:45+09:00",
+    "note": "EXTRACT_SCHEMA.PSM is written in Persistent Stored Module!"
+  }
+]

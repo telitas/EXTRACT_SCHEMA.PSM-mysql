@@ -1,0 +1,1 @@
+SELECT mydb.extract_table_as_json('accessible_table', 'otherdb') IS NOT NULL AS result;

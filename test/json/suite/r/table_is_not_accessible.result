@@ -1,0 +1,3 @@
+SELECT mydb.extract_table_as_json('sample_table', 'otherdb') IS NULL AS result;
+result
+1

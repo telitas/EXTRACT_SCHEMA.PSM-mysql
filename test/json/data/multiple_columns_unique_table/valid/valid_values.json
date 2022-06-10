@@ -1,0 +1,17 @@
+[
+  {
+    "multiple_unique_column_1": "key1000001",
+    "multiple_unique_column_2": "key2000001"
+  },
+  {
+    "multiple_unique_column_1": "key1000002",
+    "multiple_unique_column_2": "key2000001"
+  },
+  {
+    "multiple_unique_column_1": null,
+    "multiple_unique_column_2": "key2000001"
+  },
+  {
+    "multiple_unique_column_2": "key2000002"
+  }
+]

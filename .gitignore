@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+package-lock.json
+Brewfile.lock.json
+EXTRACT_SCHEMA.PSM-mysql-*.zip

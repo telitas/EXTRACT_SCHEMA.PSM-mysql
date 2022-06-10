@@ -1,0 +1,13 @@
+[
+  {
+    "numeric_literal": "999999999.999999",
+    "integer_literal": 2147483647,
+    "bigint_literal": 9223372036854776000,
+    "double_precision_literal": 1.7976931348623157e+308,
+    "character_literal": "ABCDEFGHIJ",
+    "binary_varying_literal": "ff",
+    "date_literal": "9999-12-31",
+    "time_literal": "23:59:59",
+    "timestamp_literal": "9999-12-31T23:59:59"
+  }
+]

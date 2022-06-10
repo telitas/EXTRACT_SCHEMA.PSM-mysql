@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema#",
+  "$id": "https://telitas.dev/extract_schema.psm/test_table/schema#",
+  "type": "object",
+  "items": {
+    "type": "object"
+  },
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "const": "https://json-schema.org/draft/2019-09/schema#"
+    },
+    "$id": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "const": "array"
+    },
+    "items": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "$ref": {
+          "type": "string",
+          "const": "#/definitions/row"
+        }
+      },
+      "required": [
+        "$ref"
+      ]
+    },
+    "definitions": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "row": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "type": {
+              "type": "string",
+              "const": "object"
+            },
+            "additionalProperties": {
+              "type": "boolean",
+              "const": false
+            },
+            "properties": {
+              "type": "object"
+            },
+            "required": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          },
+          "required": [
+            "type",
+            "properties"
+          ]
+        }
+      },
+      "required": [
+        "row"
+      ]
+    },
+    "required": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "$schema",
+    "$id",
+    "type",
+    "items",
+    "definitions"
+  ]
+}

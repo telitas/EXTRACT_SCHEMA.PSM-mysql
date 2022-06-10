@@ -1,0 +1,1 @@
+SELECT mydb.extract_table_as_json('sample_table', 'not_exist_schema') IS NULL AS result;

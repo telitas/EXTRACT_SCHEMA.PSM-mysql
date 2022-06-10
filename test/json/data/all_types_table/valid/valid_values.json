@@ -1,0 +1,188 @@
+[
+  {
+    "numeric_column": "999999999.999999",
+    "decimal_column": "999999999.999999",
+    "smallint_column": 32767,
+    "integer_column": 2147483647,
+    "bigint_column": 9223372036854776000,
+    "float_column": 1.7976931348623157e+308,
+    "real_column": 3.4028235e+38,
+    "double_precision_column": 1.7976931348623157e+308,
+    "character_column": "ABCDEFGHIJ",
+    "character_varying_column": "ABCDEFGHIJ",
+    "character_large_object_column": "ABCDEFGHIJ",
+    "binary_column": "ffffffffffffffffffff",
+    "binary_varying_column": "ffffffffffffffffffff",
+    "binary_large_object_column": "ffffffffffffffffffff",
+    "boolean_column": true,
+    "date_column": "9999-12-31",
+    "time_without_time_zone_column": "23:59:59",
+    "time_with_time_zone_column": "23:59:59",
+    "timestamp_without_time_zone_column": "9999-12-31T23:59:59",
+    "timestamp_with_time_zone_column": "9999-12-31T23:59:59+00:00",
+    "interval_column": "838:59:59",
+    "not_supported_type_column": ""
+  },
+  {
+    "numeric_column": null,
+    "decimal_column": null,
+    "smallint_column": null,
+    "integer_column": null,
+    "bigint_column": null,
+    "float_column": null,
+    "real_column": null,
+    "double_precision_column": null,
+    "character_column": null,
+    "character_varying_column": null,
+    "character_large_object_column": null,
+    "binary_column": null,
+    "binary_varying_column": null,
+    "binary_large_object_column": null,
+    "boolean_column": null,
+    "date_column": null,
+    "time_without_time_zone_column": null,
+    "time_with_time_zone_column": null,
+    "timestamp_without_time_zone_column": null,
+    "timestamp_with_time_zone_column": null,
+    "interval_column": null,
+    "not_supported_type_column": null
+  },
+  {},
+  {
+    "numeric_column": "0",
+    "decimal_column": "0"
+  },
+  {
+    "numeric_column": "-999999999.999999",
+    "decimal_column": "-999999999.999999"
+  },
+  {
+    "numeric_column": "999999999.999999",
+    "decimal_column": "999999999.999999"
+  },
+  {
+    "numeric_column": "9.9",
+    "decimal_column": "9.9"
+  },
+  {
+    "smallint_column": 0,
+    "integer_column": 0,
+    "bigint_column": 0
+  },
+  {
+    "smallint_column": -32768,
+    "integer_column": -2147483648,
+    "bigint_column": -9223372036854776000
+  },
+  {
+    "smallint_column": 32767,
+    "integer_column": 2147483647,
+    "bigint_column": 9223372036854776000
+  },
+  {
+    "float_column": 0,
+    "real_column": 0,
+    "double_precision_column": 0
+  },
+  {
+    "float_column": -1.7976931348623157e+308,
+    "real_column": -3.4028235e+38,
+    "double_precision_column": -1.7976931348623157e+308
+  },
+  {
+    "float_column": 1.7976931348623157e+308,
+    "real_column": 3.4028235e+38,
+    "double_precision_column": 1.7976931348623157e+308
+  },
+  {
+    "float_column": 5e-324,
+    "real_column": 1.401298e-45,
+    "double_precision_column": 5e-324
+  },
+  {
+    "character_column": "abcdefghij",
+    "character_varying_column": "",
+    "character_large_object_column": ""
+  },
+  {
+    "character_column": "ABCDEFGHIJ",
+    "character_varying_column": "ABCDEFGHIJ",
+    "character_large_object_column": "ABCDEFGHIJ"
+  },
+  {
+    "binary_column": "00000000000000000000",
+    "binary_varying_column": "",
+    "binary_large_object_column": ""
+  },
+  {
+    "binary_column": "ffffffffffffffffffff",
+    "binary_varying_column": "ffffffffffffffffffff",
+    "binary_large_object_column": "ffffffffffffffffffff"
+  },
+  {
+    "boolean_column": false
+  },
+  {
+    "boolean_column": true
+  },
+  {
+    "date_column": "0001-01-01",
+    "time_without_time_zone_column": "00:00:00",
+    "timestamp_without_time_zone_column": "0001-01-01T00:00:00"
+  },
+  {
+    "date_column": "9999-12-31",
+    "time_without_time_zone_column": "23:59:59",
+    "timestamp_without_time_zone_column": "9999-12-31T23:59:59"
+  },
+  {
+    "time_with_time_zone_column": "00:00:00",
+    "timestamp_with_time_zone_column": "0001-01-01T00:00:00+00:00"
+  },
+  {
+    "time_with_time_zone_column": "23:59:59",
+    "timestamp_with_time_zone_column": "9999-12-31T23:59:59+00:00"
+  },
+  {
+    "time_with_time_zone_column": "00:00:00",
+    "timestamp_with_time_zone_column": "0001-01-01T00:00:00+11:00"
+  },
+  {
+    "time_with_time_zone_column": "23:59:59",
+    "timestamp_with_time_zone_column": "9999-12-31T23:59:59+11:00"
+  },
+  {
+    "time_with_time_zone_column": "00:00:00",
+    "timestamp_with_time_zone_column": "0001-01-01T00:00:00-11:00"
+  },
+  {
+    "time_with_time_zone_column": "23:59:59",
+    "timestamp_with_time_zone_column": "9999-12-31T23:59:59-11:00"
+  },
+  {
+    "interval_column": "-838:59:59.999999"
+  },
+  {
+    "interval_column": "838:59:59.999999"
+  },
+  {
+    "not_supported_type_column": 0
+  },
+  {
+    "not_supported_type_column": "a"
+  },
+  {
+    "not_supported_type_column": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "not_supported_type_column": {
+      "field1": "",
+      "field2": "",
+      "field3": ""
+    }
+  }
+]
