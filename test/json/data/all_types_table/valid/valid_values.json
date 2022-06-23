@@ -11,6 +11,9 @@
     "character_column": "ABCDEFGHIJ",
     "character_varying_column": "ABCDEFGHIJ",
     "character_large_object_column": "ABCDEFGHIJ",
+    "national_character_column": "ABCDEFGHIJ",
+    "national_character_varying_column": "ABCDEFGHIJ",
+    "national_character_large_object_column": "ABCDEFGHIJ",
     "binary_column": "ffffffffffffffffffff",
     "binary_varying_column": "ffffffffffffffffffff",
     "binary_large_object_column": "ffffffffffffffffffff",
@@ -35,6 +38,9 @@
     "character_column": null,
     "character_varying_column": null,
     "character_large_object_column": null,
+    "national_character_column": null,
+    "national_character_varying_column": null,
+    "national_character_large_object_column": null,
     "binary_column": null,
     "binary_varying_column": null,
     "binary_large_object_column": null,
@@ -108,6 +114,16 @@
     "character_column": "ABCDEFGHIJ",
     "character_varying_column": "ABCDEFGHIJ",
     "character_large_object_column": "ABCDEFGHIJ"
+  },
+  {
+    "national_character_column": "abcdefghij",
+    "national_character_varying_column": "",
+    "national_character_large_object_column": ""
+  },
+  {
+    "national_character_column": "ABCDEFGHIJ",
+    "national_character_varying_column": "ABCDEFGHIJ",
+    "national_character_large_object_column": "ABCDEFGHIJ"
   },
   {
     "binary_column": "00000000000000000000",

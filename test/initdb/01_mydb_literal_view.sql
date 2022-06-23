@@ -5,6 +5,7 @@ SELECT
     9223372036854775807 AS bigint_literal,
     0E0 AS double_precision_literal,
     '1234567890' AS character_literal,
+    N'1234567890' AS national_character_literal,
     0x00 AS binary_varying_literal,
     DATE '0001-01-01' AS date_literal,
     TIME '000:00:00' AS time_literal,
