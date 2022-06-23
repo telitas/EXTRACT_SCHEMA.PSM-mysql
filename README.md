@@ -1,6 +1,6 @@
-# EXTRACT_SCHEMA.PSM@mysql
+# EXTRACT_SCHEMA.PSM-mysql
 
-EXTRACT_SCHEMA.PSM@mysql is implementation of [EXTRACT_SCHEMA.PSM](https://github.com/telitas/EXTRACT_SCHEMA.PSM) in MySQL.
+EXTRACT_SCHEMA.PSM-mysql is implementation of [EXTRACT_SCHEMA.PSM](https://github.com/telitas/EXTRACT_SCHEMA.PSM) in MySQL.
 
 MySQL 8 or later is supported.
 
